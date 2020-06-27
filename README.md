@@ -13,4 +13,4 @@ This credit can be given through a credits.txt file that is bundled with the mod
 
 #### How do I add a asset to this repository?
 *For simplicity, each asset author should have their own folder (Named after their GitHub username) for all their assets.
-Simply PR your assets into this folder, and if you want to clarify how people should credit you, include a readme in the folder with credit instructions.
+Simply PR your assets into this folder, and if you want to clarify how people should credit you, include a readme in the folder with credit instructions.*
